@@ -1,0 +1,29 @@
+#include<iostream>
+using namespace std;
+class Test
+{
+private :
+    int mark;
+    float spi;
+public :
+    void SetData()
+    {
+      
+        cout<<"Enter mark : ";
+        cin>>mark;
+        cout<<"Enter spi : ";
+        cin>>spi;
+    }
+    void DisplayData()
+    {
+        cout<< "Mark= "<<mark<<endl;
+        cout<< "spi= "<<spi;
+    }
+};
+int main()
+{
+    Test o1;
+    o1.SetData();
+    o1.DisplayData();
+    return 0;
+}

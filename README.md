@@ -1,5 +1,5 @@
 # OOPS_PROGRAMS_7TH_SEM
-## 🎓 Student Details
+
 
 # OOPS Programming in C++
 

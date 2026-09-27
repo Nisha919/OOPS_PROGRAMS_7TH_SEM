@@ -20,6 +20,6 @@ To learn and implement basic Object-Oriented Programming concepts in C++ through
 | **Division** | C |
 | **USN** | 01FE23BEC152 |
 | **Semester** | VII |
-| **University** | KLE Technological University |
+
 
 

@@ -14,8 +14,7 @@ int main()
     x=10;
     y=20;
 
-    /*cout<<"Enter two numbers: ";
-    cin>>x >>y;*/
+  
 
     cout<<"Before swapping: x = "<<x << ",y = "<<y<< endl;
 

@@ -1,5 +1,17 @@
 #include <iostream>
 using namespace std;
+#include <iostream>
+using namespace std;
+
+/*void swapNumbers(int x, int y)
+{
+    int temp=x;
+    x=y;
+    y=temp;
+}
+*/
+
+
 
 void swapNumbers(int &x,int &y)
 {

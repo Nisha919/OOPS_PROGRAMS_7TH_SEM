@@ -1,5 +1,13 @@
 # OOPS_PROGRAMS_7TH_SEM
 
+| Field | Details |
+|---|---|
+| **Name** | Nisha Gangavati |
+| **Roll No.** | 358 |
+| **Division** | C |
+| **USN** | 01FE23BEC152 |
+| **Semester** | VII |
+
 
 # OOPS Programming in C++
 
@@ -9,8 +17,11 @@ To learn and implement basic Object-Oriented Programming concepts in C++ through
 
 ## Topics Covered
 
-1. **Basic C++ Programs** – Fundamentals of C++.
-2. **Classes and Objects** – Static members, scope resolution, constructors, and destructors.
+## 01.Basic C++ Programs
+- Fundamentals of C++.
+
+## 02 .Classes and Objects
+– Static members, scope resolution, constructors, and destructors.
 
 ## 03. Inheritance
 - Types of inheritance and access specifiers.
@@ -28,13 +39,6 @@ To learn and implement basic Object-Oriented Programming concepts in C++ through
 This repository represents my learning and practice of C++ concepts through simple programs.
 
 
-| Field | Details |
-|---|---|
-| **Name** | Nisha Gangavati |
-| **Roll No.** | 358 |
-| **Division** | C |
-| **USN** | 01FE23BEC152 |
-| **Semester** | VII |
 
 
 
